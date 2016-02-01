@@ -33,24 +33,25 @@ navigation:
 
 
 # Author Details
-author:         'Abdel Raoof Olakara'
+author:         'Massimiliano Bernabé'
 
 #Social Media links (Use complete URL except for email)
 dribbble:
 email:
-facebook:       'https://www.facebook.com/olakara'
+facebook:       'https://www.facebook.com/pages/develostcom/1400737306913750'
 flickr:
-github:         'https://github.com/olakara'
-gplus:          'https://plus.google.com/100425464897246255887/'
+github:         'https://twitter.com/develost_com'
+gplus:
 instagram:
 pinterest:
-linkedin:       'https://ae.linkedin.com/in/olakara/'
+linkedin:       'https://www.linkedin.com/in/massimilianobernabe'
 rss:
-stackoverflow:  'http://stackoverflow.com/users/185655/abdel-raoof'
-twitter:        'https://twitter.com/olakara'
+stackoverflow:  'http://stackoverflow.com/users/4759300/develost'
+twitter:        'https://twitter.com/develost_com'
 
 # Google Analytics
-gahandler: 'UA-52149651-1'
+gahandler: 'UA-XXXX-X'
+
 
 #if footersvg is 'true' the social media links will be shown top on the copy right in the footer
 footersvg: 'true'
