@@ -2,7 +2,7 @@
 layout: page
 title: Hi, I am TEST
 description: About Me test
-theme: purple
+theme: #19A347
 ---
 
 
