@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hi, I am TEST
-description: About Me page of Abdel Raoof
+description: About Me test
 theme: purple
 ---
 
