@@ -1,7 +1,7 @@
 {
-  "name": "JekyllMetro",
+  "name": "develost.com",
   "version": "1.0.0",
-  "description": "Jekyll Metro is a metro inspired theme for [Jekyll](http://jekyllrb.com).",
+  "description": "develost dot com is the projects collector of Massimiliano Bernabé.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
