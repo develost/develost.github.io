@@ -11,8 +11,8 @@ permalink:        /blog/:year/:month/:day/:title
 
 # Setup
 title:            'Develost'
-tagline:          'A Metro theme for Jekyll'
-description:      'A Sample blog using Jekyll Metro'
+tagline:          'Projects collector of Massimiliano Bernabé'
+description:      'Projects collector of Massimiliano Bernabé'
 #url:              'http://192.168.1.11:4000'
 baseurl:          ''
 
