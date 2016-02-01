@@ -11,7 +11,7 @@ featured: false
 
 todo description
 
-```sql
+{% highlight sql %}
 ---------------------------------------------------------------------------------
 --- Bulk alter table owner for all tables in multiple schema
 --- to be run into pgAdmin "Execute pgScript"
@@ -26,4 +26,4 @@ BEGIN
     ALTER TABLE @T OWNER TO MY_USER;
     SET @i = @i +1;
 END
-```
+{% endhighlight %}
