@@ -2,7 +2,7 @@
 layout: page
 title: Resume
 description: Resume of Me
-theme: red
+theme: green
 ---
 test
 
