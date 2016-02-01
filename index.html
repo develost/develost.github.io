@@ -16,26 +16,21 @@ description: develost.com
  			<div class="col-md-6 col-sm-6 col-xs-12">
 				<a href="about/" title="About Me">
 					<div class="tile purple profile">
-						<h2 class="title">About Me</h2>
+						<h2 class="title green">About Me</h2>
 						<p>Hello World, I am {{site.author}}.</p>
 					</div>
 				</a>
 		    </div>
 			<div class="col-md-3 col-sm-3 col-xs-6">
-				<a href="resume/" title="Resume" class="tile red">
+				<a href="resume/" title="Resume" class="tile green">
 					<i class="icon-rems" style="font-size:8em"></i>
 				</a>
 			</div>
 			<div class="col-md-3 col-sm-3 col-xs-6">
-				<a href="{{site.github}}" title="Github" class="tile purple">
-					<i class="icon-gthb" style="font-size:8em"></i>
-				</a>
-			</div>            
-			<!-- <div class="col-md-2 col-sm-3 col-xs-6">
-				<a href="blog/" title="Blog"  class="tile orange">
+				<a href="blog/" title="Blog"  class="tile green">
 					<i class="icon-blog" style="font-size:8em"></i>
 				</a>
-			</div> -->
+			</div>
 		</div>
 
 		<div class="row">
@@ -43,7 +38,7 @@ description: develost.com
 			<div class="col-md-4 col-sm-6 col-xs-12">
 				{% for post in site.posts offset:1 limit:1 %}
 				<a href="{{post.url}}" title="Recent Article">
-					<div class="tile green">
+					<div class="tile red">
 						<h3 class="title">Recent Article</h3>
 						<h4 class="title">{{ post.title }}</h4>
 						<p> {{ post.content | strip_html | truncatewords: 10 }}</p>
@@ -56,7 +51,7 @@ description: develost.com
 			<div class="col-md-4 col-sm-6 col-xs-12">
 				{% for post in site.posts limit:1 %}
 				<a href="{{post.url}}" title="Latest Article">
-					<div class="tile red">
+					<div class="tile yellow">
 						<h3 class="title">Latest Article</h3>
 						<h4 class="title">{{ post.title }}</h4>
 						<p> {{ post.content | strip_html | truncatewords: 10 }}</p>
@@ -71,7 +66,7 @@ description: develost.com
 				{% for post in site.posts %}
 					{% if post.featured == true %}
 					<a href="{{post.url}}" title="Featured Article">
-						<div class="tile orange">
+						<div class="tile blue">
 							<h3 class="title">Featured Article</h3>
 							<h4 class="title">{{ post.title }}</h4>
 							<p> {{ post.content | strip_html | truncatewords: 10 }}</p>
@@ -100,10 +95,16 @@ description: develost.com
 				</a>
 			</div>
 			<div class="col-md-3 col-sm-3 col-xs-6">
+				<a href="{{site.github}}" title="Github" class="tile purple">
+					<i class="icon-gthb" style="font-size:8em"></i>
+				</a>
+			</div>            
+            
+			<!--<div class="col-md-3 col-sm-3 col-xs-6">
 				<a href="{{site.stackoverflow}}" title="StackOverflow" class="tile darken" >
 					<i class="icon-skow" style="font-size:8em;color:white"></i>
 				</a>
-			</div>
+			</div>-->
 			<!--<div class="col-md-3 col-sm-3 col-xs-6">
 				<a href="feed.xml" title="RSS Feed" class="tile orange">
 					<i class="icon-rss" style="font-size:8em"></i>
