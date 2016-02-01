@@ -10,7 +10,7 @@ gems: [jekyll-paginate]
 permalink:        /blog/:year/:month/:day/:title
 
 # Setup
-title:            'Develost: projects collector of Massimiliano Bernabé'
+title:            'Develost'
 tagline:          'A Metro theme for Jekyll'
 description:      'A Sample blog using Jekyll Metro'
 #url:              'http://192.168.1.11:4000'
@@ -57,7 +57,7 @@ gahandler: 'UA-XXXX-X'
 footersvg: 'true'
 
 # Disqus
-disqushandler: 'testingblogo'
+disqushandler: 'develost'
 
 # Blog Configurations
 paginate: 10 # Posts per page on the blog index
