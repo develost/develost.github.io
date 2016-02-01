@@ -15,8 +15,8 @@ description: develost.com
 		<div class="row">
  			<div class="col-md-6 col-sm-6 col-xs-12">
 				<a href="about/" title="About Me">
-					<div class="tile purple profile">
-						<h2 class="title green">About Me</h2>
+					<div class="tile green profile">
+						<h2 class="title">About Me</h2>
 						<p>Hello World, I am {{site.author}}.</p>
 					</div>
 				</a>
@@ -66,7 +66,7 @@ description: develost.com
 				{% for post in site.posts %}
 					{% if post.featured == true %}
 					<a href="{{post.url}}" title="Featured Article">
-						<div class="tile blue">
+						<div class="tile teal">
 							<h3 class="title">Featured Article</h3>
 							<h4 class="title">{{ post.title }}</h4>
 							<p> {{ post.content | strip_html | truncatewords: 10 }}</p>
