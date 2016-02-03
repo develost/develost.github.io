@@ -8,14 +8,14 @@ tags: OSM maps dyslexic
 featured: true
 ---
 
-# Introducing OSM for the dyslexic
 A GIS application to make OpenStreetMap more accessible by dyslexics, mitigating common reading errors
 
-## What is the appplication going to do?
+# What is the appplication going to do?
 The primary objective of the application is to mitigate typical reading errors dyslexic people do when reading and browsing OpenStreetMap.
 
-## Which data sets will it use?
+# Which data sets will it use?
 The proposed appplication use at least the following dataset from OpenStreetMap:
+
 | Boundaries | Boundaries mark the borders of areas, mostly political, but also of other administrative areas. The application will use administrative boundaries as basemap (boundary = administrative , admin_level from 1 to 10)
 | Highways   | Highways in OpenStreetMap are roads, routes, ways , or thoroughfares on land which connects one location to another and has been paved or otherwise improved to allow travel by some conveyance, including motorised vehicles, cyclists, pedestrians, horse riders, and others (but not trains – see Railways for further details). The application will use highways as basemap.
 | Buildings  | Houses, factories and ruined buildings. The app will use buildings as basemap. |
@@ -25,13 +25,13 @@ The proposed appplication use at least the following dataset from OpenStreetMap:
 | Shops      | Places selling retail products or services. The apps will use shops as identificable items. |
 
 
-## Development status
+# Development status
 check it here:
 TODO LINK
 
-## Advantages of the app compared to existing ones
+# Advantages of the app compared to existing ones
 
-### OSM Direction tool for Visually Impaired
+## OSM Direction tool for Visually Impaired
 From http://wiki.openstreetmap.org/wiki/OSM_Direction_tool_for_Visually_Impaired
 
 The application is a Keyboard accessible Directions tool using OpenSteetMap for Visually
@@ -40,7 +40,7 @@ destination as his/her query in text boxes, the route or walking/driving directi
 resulted as output not only on maps but also as detailed text explaining entire routeto be
 easily readable.
 
-### Look and Listen Map
+## Look and Listen Map
 From http://wiki.openstreetmap.org/wiki/OSM_for_the_blind
 
 "Look and Listen Map" is an online map and routing service for blind, visually impaired
@@ -48,7 +48,7 @@ and sighted persons based on OSM data. This application will use a Braille displ
 output device and/ora voice that reproduce the text on the screen.
 OSM for the dyslexic - Page 4 of 12
 
-### HaptoRender
+## HaptoRender
 From http://wiki.openstreetmap.org/wiki/HaptoRender
 HaptoRender is planned to be a renderer that uses OSM data to create tactile maps for
 blind and visually impaired persons.
@@ -56,8 +56,8 @@ HaptoRender will have several advantages compared with commercial tactile maps:
 Phisical maps are cheaper, because there will not be any license cost for the map data.
 If one part of a map is obsolete, the part can be reproduced.
 
-### Commercial software for dysleciscs
-#### Read&Write 
+## Commercial software for dysleciscs
+### Read&Write 
 From http://www.texthelp.com/UK
 
 Read&Write is an easy-to-use flexible toolbar containing support features to make
@@ -65,13 +65,13 @@ reading, writing and research easier for the dyslexic. The software has been des
 address some of the issues that people with dyslexia face daily, namely reading
 difficulties, writing difficulties, problems with spelling and general literacy support, but
 does not work on images.
-#### BrowseAloud
+### BrowseAloud
 From http://www.browsealoud.com/uk/
 BrowseAloud adds speech, reading and translation support to a website facilitating
 access and participation for those people with print disabilities, dyslexia, low literacy and
 mild visual impairments.
 
-## Our contribution
+# Our contribution
 Despite many applications were developed specifically for dyslexics, none of them is a
 GIS application.
 
