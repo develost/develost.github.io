@@ -32,7 +32,7 @@ TODO LINK
 # Advantages of the app compared to existing ones
 
 ## OSM Direction tool for Visually Impaired
-From (http://wiki.openstreetmap.org/wiki/OSM_Direction_tool_for_Visually_Impaired)
+From <http://wiki.openstreetmap.org/wiki/OSM_Direction_tool_for_Visually_Impaired>
 
 The application is a Keyboard accessible Directions tool using OpenSteetMap for Visually
 Impaired people. It works on the principle such that,after user enters source and
