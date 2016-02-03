@@ -26,8 +26,9 @@ The proposed appplication use at least the following dataset from OpenStreetMap:
 
 
 # Development status
-check it here:
-TODO LINK
+Check it on the project official web site:
+<http://www.osm4dys.org>
+
 
 # Advantages of the app compared to existing ones
 
@@ -41,15 +42,14 @@ resulted as output not only on maps but also as detailed text explaining entire 
 easily readable.
 
 ## Look and Listen Map
-From http://wiki.openstreetmap.org/wiki/OSM_for_the_blind
+From <http://wiki.openstreetmap.org/wiki/OSM_for_the_blind>
 
 "Look and Listen Map" is an online map and routing service for blind, visually impaired
 and sighted persons based on OSM data. This application will use a Braille display as
 output device and/ora voice that reproduce the text on the screen.
-OSM for the dyslexic - Page 4 of 12
 
 ## HaptoRender
-From http://wiki.openstreetmap.org/wiki/HaptoRender
+From <http://wiki.openstreetmap.org/wiki/HaptoRender>
 HaptoRender is planned to be a renderer that uses OSM data to create tactile maps for
 blind and visually impaired persons.
 HaptoRender will have several advantages compared with commercial tactile maps:
@@ -59,7 +59,7 @@ If one part of a map is obsolete, the part can be reproduced.
 ## Commercial software for dysleciscs
 
 ### Read&Write 
-From http://www.texthelp.com/UK
+From <http://www.texthelp.com/UK>
 
 Read&Write is an easy-to-use flexible toolbar containing support features to make
 reading, writing and research easier for the dyslexic. The software has been designed to
@@ -68,7 +68,7 @@ difficulties, writing difficulties, problems with spelling and general literacy 
 does not work on images.
 
 ### BrowseAloud
-From http://www.browsealoud.com/uk/
+From <http://www.browsealoud.com/uk/>
 BrowseAloud adds speech, reading and translation support to a website facilitating
 access and participation for those people with print disabilities, dyslexia, low literacy and
 mild visual impairments.
