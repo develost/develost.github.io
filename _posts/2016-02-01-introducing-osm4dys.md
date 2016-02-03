@@ -20,6 +20,7 @@ The proposed appplication use at least the following dataset from OpenStreetMap:
 ## Boundaries
 
 ![Boundaries]({{ site.url }}/posts-images/2016-02-01-boundaries.jpg)
+
 Boundaries mark the borders of areas, mostly political, but also of other administrative areas. The application will use administrative boundaries as basemap (boundary = administrative , admin_level from 1 to 10)
 
 ## Highways 
