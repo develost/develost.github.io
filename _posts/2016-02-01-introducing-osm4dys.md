@@ -32,7 +32,7 @@ TODO LINK
 # Advantages of the app compared to existing ones
 
 ## OSM Direction tool for Visually Impaired
-From http://wiki.openstreetmap.org/wiki/OSM_Direction_tool_for_Visually_Impaired
+From (http://wiki.openstreetmap.org/wiki/OSM_Direction_tool_for_Visually_Impaired)
 
 The application is a Keyboard accessible Directions tool using OpenSteetMap for Visually
 Impaired people. It works on the principle such that,after user enters source and
@@ -57,6 +57,7 @@ Phisical maps are cheaper, because there will not be any license cost for the ma
 If one part of a map is obsolete, the part can be reproduced.
 
 ## Commercial software for dysleciscs
+
 ### Read&Write 
 From http://www.texthelp.com/UK
 
@@ -65,6 +66,7 @@ reading, writing and research easier for the dyslexic. The software has been des
 address some of the issues that people with dyslexia face daily, namely reading
 difficulties, writing difficulties, problems with spelling and general literacy support, but
 does not work on images.
+
 ### BrowseAloud
 From http://www.browsealoud.com/uk/
 BrowseAloud adds speech, reading and translation support to a website facilitating
