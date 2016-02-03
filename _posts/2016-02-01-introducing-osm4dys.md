@@ -27,6 +27,7 @@ The proposed appplication use at least the following dataset from OpenStreetMap:
 
 # Development status
 Check it on the project official web site:
+
 <http://www.osm4dys.org>
 
 
@@ -50,6 +51,7 @@ output device and/ora voice that reproduce the text on the screen.
 
 ## HaptoRender
 From <http://wiki.openstreetmap.org/wiki/HaptoRender>
+
 HaptoRender is planned to be a renderer that uses OSM data to create tactile maps for
 blind and visually impaired persons.
 HaptoRender will have several advantages compared with commercial tactile maps:
@@ -69,6 +71,7 @@ does not work on images.
 
 ### BrowseAloud
 From <http://www.browsealoud.com/uk/>
+
 BrowseAloud adds speech, reading and translation support to a website facilitating
 access and participation for those people with print disabilities, dyslexia, low literacy and
 mild visual impairments.
@@ -79,18 +82,21 @@ GIS application.
 
 The concept of styling maps for dislexics is an innovative point of view for increasing
 acessibility of the GIS (open) data. None of the free basemaps are accesible-ready for
-dislexics:
-- They are:
-- feature-rich,
-- color-rich,
-- rich of text following complex paths,
-- Dyslexics feel better when
-- text is capitalized and always horizontal,
-- same colors represent same things,
-- few information are on the screen.
+dislexics. They are:
+
+* feature-rich,
+* color-rich,
+* rich of text following complex paths.
+
+Dyslexics feel better when:
+
+* text is capitalized and always horizontal,
+* same colors represent same things,
+* few information are on the screen.
 
 None of the existing GIS application has the capability to:
-- Describe and tell (audio) where the user is
-- Describe and tell the path made by the user around the map
-- Describe and tell what the user is currently watching
-- Describe and tell the user informations about every single feature on a map
+
+* Describe and tell (audio) where the user is
+* Describe and tell the path made by the user around the map
+* Describe and tell what the user is currently watching
+* Describe and tell the user informations about every single feature on a map
