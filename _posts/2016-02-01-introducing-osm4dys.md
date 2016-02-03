@@ -14,15 +14,36 @@ A GIS application to make OpenStreetMap more accessible by dyslexics, mitigating
 The primary objective of the application is to mitigate typical reading errors dyslexic people do when reading and browsing OpenStreetMap.
 
 # Which data sets will it use?
+
 The proposed appplication use at least the following dataset from OpenStreetMap:
 
-| Boundaries | Boundaries mark the borders of areas, mostly political, but also of other administrative areas. The application will use administrative boundaries as basemap (boundary = administrative , admin_level from 1 to 10)
-| Highways   | Highways in OpenStreetMap are roads, routes, ways , or thoroughfares on land which connects one location to another and has been paved or otherwise improved to allow travel by some conveyance, including motorised vehicles, cyclists, pedestrians, horse riders, and others (but not trains – see Railways for further details). The application will use highways as basemap.
-| Buildings  | Houses, factories and ruined buildings. The app will use buildings as basemap. |
-| Aeroways   | Describes the fixed physical infrastructure associated with the air travel, including airports, runways, helipads, and terminal buildings. The app will use aeroways as basemap. |
-| Amenities  | They represent useful and important facilities for visitors and residents, an assortment of community facilities including toilets, telephones, banks, pharmacies and schools. The app will use amenities as identificable items. |
-| Addresses  | Addresses for the building or facility. The app will use addresses as idenificable items. |
-| Shops      | Places selling retail products or services. The apps will use shops as identificable items. |
+## Boundaries
+
+Boundaries mark the borders of areas, mostly political, but also of other administrative areas. The application will use administrative boundaries as basemap (boundary = administrative , admin_level from 1 to 10)
+
+## Highways 
+
+Highways in OpenStreetMap are roads, routes, ways , or thoroughfares on land which connects one location to another and has been paved or otherwise improved to allow travel by some conveyance, including motorised vehicles, cyclists, pedestrians, horse riders, and others (but not trains – see Railways for further details). The application will use highways as basemap.
+
+## Buildings
+
+Houses, factories and ruined buildings. The app will use buildings as basemap.
+
+## Aeroways
+
+Describes the fixed physical infrastructure associated with the air travel, including airports, runways, helipads, and terminal buildings. The app will use aeroways as basemap.
+
+## Amenities
+
+They represent useful and important facilities for visitors and residents, an assortment of community facilities including toilets, telephones, banks, pharmacies and schools. The app will use amenities as identificable items.
+
+## Addresses
+
+Addresses for the building or facility. The app will use addresses as idenificable items.
+
+## Shops
+
+Places selling retail products or services. The apps will use shops as identificable items.
 
 
 # Development status
