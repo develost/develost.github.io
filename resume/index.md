@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Resume
+title: Resume of Massimiliano Bernabé
 description: Resume of Massimiliano Bernabé
 theme: green
 ---
 # Personal Information
-Massimiliano Bernabé
-![Massimiliano Bernabé]({{ site.url }}/resume/me.jpg)
+
+![Massimiliano Bernabé]({{ site.url }}/resume/me.jpg  =250x)
 
 | Location            | Frazione S. Agnese 1, 38045, Civezzano, Trento  (Italy) |
 | Phone               | +39 328 1729947                                         |
