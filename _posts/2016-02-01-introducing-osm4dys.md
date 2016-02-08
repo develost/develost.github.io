@@ -19,43 +19,43 @@ The proposed appplication use at least the following dataset from OpenStreetMap:
 
 ## Boundaries
 
-![Boundaries]({{ site.url }}/posts-images/2016-02-01-boundaries.jpg)
+![Boundaries]({{ site.url }}/posts-images{{page.url}}/boundaries.jpg)
 
 Boundaries mark the borders of areas, mostly political, but also of other administrative areas. The application will use administrative boundaries as basemap (boundary = administrative , admin_level from 1 to 10)
 
 ## Highways 
 
-![Highways]({{ site.url }}/posts-images/2016-02-01-higways.jpg)
+![Highways]({{ site.url }}/posts-images{{page.url}}/higways.jpg)
 
 Highways in OpenStreetMap are roads, routes, ways , or thoroughfares on land which connects one location to another and has been paved or otherwise improved to allow travel by some conveyance, including motorised vehicles, cyclists, pedestrians, horse riders, and others (but not trains – see Railways for further details). The application will use highways as basemap.
 
 ## Buildings
 
-![Buildings]({{ site.url }}/posts-images/2016-02-01-buildings.jpg)
+![Buildings]({{ site.url }}/posts-images{{page.url}}/buildings.jpg)
 
 Houses, factories and ruined buildings. The app will use buildings as basemap.
 
 ## Aeroways
 
-![Aeroways]({{ site.url }}/posts-images/2016-02-01-aeronways.jpg)
+![Aeroways]({{ site.url }}/posts-images{{page.url}}/aeronways.jpg)
 
 Describes the fixed physical infrastructure associated with the air travel, including airports, runways, helipads, and terminal buildings. The app will use aeroways as basemap.
 
 ## Amenities
 
-![Amenities]({{ site.url }}/posts-images/2016-02-01-amenities.jpg)
+![Amenities]({{ site.url }}/posts-images{{page.url}}/amenities.jpg)
 
 They represent useful and important facilities for visitors and residents, an assortment of community facilities including toilets, telephones, banks, pharmacies and schools. The app will use amenities as identificable items.
 
 ## Addresses
 
-![Addresses]({{ site.url }}/posts-images/2016-02-01-addresses.jpg)
+![Addresses]({{ site.url }}/posts-images{{page.url}}/addresses.jpg)
 
 Addresses for the building or facility. The app will use addresses as idenificable items.
 
 ## Shops
 
-![Shops]({{ site.url }}/posts-images/2016-02-01-shops.jpg)
+![Shops]({{ site.url }}/posts-images{{page.url}}/shops.jpg)
 
 Places selling retail products or services. The apps will use shops as identificable items.
 
