@@ -13,8 +13,9 @@ permalink:        /blog/:year/:month/:day/:title
 title:            'Develost'
 tagline:          'Projects collector of Massimiliano Bernabé'
 description:      'Projects collector of Massimiliano Bernabé'
-#url:              'http://192.168.1.11:4000'
+url:              'http://develost.github.io'
 baseurl:          'http://develost.github.io'
+
 
 # Navigation
 navigation:
