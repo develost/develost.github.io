@@ -249,6 +249,7 @@ th {
   .table-bordered th,
   .table-bordered td {
     border: 1px solid #ddd !important;
+    padding: 5px;
   }
 }
 * {
