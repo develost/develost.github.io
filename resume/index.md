@@ -15,6 +15,7 @@ theme: green
 | Sex                 | Male                                                    |
 | Date of birth       | 21/06/1982                                              |
 | Nationality         | Italian                                                 | 
+{: .table-bordered}
 
 # Work Experience
 
