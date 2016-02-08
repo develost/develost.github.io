@@ -20,29 +20,70 @@ theme: green
 # Work Experience
 
 ## Position held: Senior GIS programmer
-
+|--------------------|----------------------------------------------------|
 | 01/04/2012 - today | Software analyst, senior system administrator      |
+|--------------------|----------------------------------------------------|
 |                    | Sinergis S.r.l.                                    |   
 |                    | Località Palazzine 120/F Trento (TN) Italy         | 
 |                    | <http://www.sinergis.it>                           | 
-|                    | * test                                                   |
-|                    | * test                                                   |
-|                    | * test                                                |
+|                    | TODO: specify                                      |
 |                    | Business or sector: Geographic information system  |
+{: .table-bordered}
+
+|--------------------|----------------------------------------------------|
+| 01/03/2012 - today | Company reference for map servers                  |
+|--------------------|----------------------------------------------------|
+|                    | Sinergis S.r.l.                                    |   
+|                    | Località Palazzine 120/F Trento (TN) Italy         | 
+|                    | <http://www.sinergis.it>                           | 
+|                    | TODO: specify                                      |
+|                    | Business or sector: Geographic information system  |
+{: .table-bordered}
+
+|--------------------|----------------------------------------------------|
+| 01/01/2010 - today | Database administrator                             |
+|--------------------|----------------------------------------------------|
+|                    | Sinergis S.r.l.                                    |   
+|                    | Località Palazzine 120/F Trento (TN) Italy         | 
+|                    | <http://www.sinergis.it>                           | 
+|                    | TODO: specify                                      |
+|                    | Business or sector: Geographic information system  |
+{: .table-bordered}
+
+|--------------------|----------------------------------------------------|
+| 01/01/2009 - today | Expert in data transformation                      |
+|--------------------|----------------------------------------------------|
+|                    | Sinergis S.r.l.                                    |   
+|                    | Località Palazzine 120/F Trento (TN) Italy         | 
+|                    | <http://www.sinergis.it>                           | 
+|                    | TODO: specify                                      |
+|                    | Business or sector: Geographic information system  |
+{: .table-bordered}
+
+|--------------------|----------------------------------------------------|
+| 01/01/2009 - today | System administrator                               |
+|--------------------|----------------------------------------------------|
+|                    | Sinergis S.r.l.                                    |   
+|                    | Località Palazzine 120/F Trento (TN) Italy         | 
+|                    | <http://www.sinergis.it>                           | 
+|                    | TODO: specify                                      |
+|                    | Business or sector: Geographic information system  |
+{: .table-bordered}
+
+|--------------------|----------------------------------------------------|
+| 18/02/2008 - 30/06/2008 | Tester                              |
+|--------------------|----------------------------------------------------|
+|                    | Sinergis S.r.l.                                    |   
+|                    | Località Palazzine 120/F Trento (TN) Italy         | 
+|                    | <http://www.sinergis.it>                           | 
+|                    | TODO: specify                                      |
+|                    | Business or sector: Geographic information system  |
+{: .table-bordered}
 
 
-|-----------------+------------+-----------------+----------------|
-| Default aligned |Left aligned| Center aligned  | Right aligned  |
-|-----------------|:-----------|:---------------:|---------------:|
-| First body part |Second cell | Third cell      | fourth cell    |
-| Second line     |foo         | **strong**      | baz            |
-| Third line      |quux        | baz             | bar            |
-|-----------------+------------+-----------------+----------------|
-| Second body     |            |                 |                |
-| 2 line          |            |                 |                |
-|=================+============+=================+================|
-| Footer row      |            |                 |                |
-|-----------------+------------+-----------------+----------------|
+
+
+
 
 
 # Education and training
