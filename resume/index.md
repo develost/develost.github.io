@@ -20,8 +20,10 @@ theme: green
 # Work Experience
 
 ## Position held: Senior GIS programmer
+
 |----------------------------------------------------|
-| 01/04/2012 - today Software analyst, senior system administrator      |
+| *01/04/2012 - today*                               |
+| Software analyst, senior system administrator      |
 |----------------------------------------------------|
 | Sinergis S.r.l.                                    |   
 | Località Palazzine 120/F Trento (TN) Italy         | 
