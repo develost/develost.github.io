@@ -21,76 +21,37 @@ theme: green
 
 ## Position held: Senior GIS programmer
 
-* 01/04/2012 - today as *software analyst and senior system administrator*
+* 01/04/2012 - today as **software analyst and senior system administrator**
+    * Sinergis S.r.l. Località Palazzine 120/F Trento (TN) Italy <http://www.sinergis.it>
+    * Developer of Triggers, functions, and scheduled jobs
+    * To be called in case of problems with:
+        * Oracle
+        * Esri SDE
+        * Postgres
+        * Postgis
+    * Installation and configuration manager for WEGE <http://riuso.cnipa.gov.it/soluzioni/getDoc.bfr?id=177> Provinces of Bolzano, Sassari, Vercelli, Palermo and Firenze
+    * Infrastructure manager for WEGE <http://riuso.cnipa.gov.it/soluzioni/getDoc.bfr?id=177> Provinces of Bolzano, Sassari, Vercelli, Palermo and Firenze
+    * Business or sector: *Geographic information system*
+* 01/03/2012 - today as **company reference for map servers**
     * Sinergis S.r.l. Località Palazzine 120/F Trento (TN) Italy <http://www.sinergis.it>
     * TODO: specify
-    * Business or sector: Geographic information system
-
-
-|----------------------------------------------------|
-| *01/04/2012 - today*                               |
-| Software analyst, senior system administrator      |
-|----------------------------------------------------|
-| Sinergis S.r.l.                                    |   
-| Località Palazzine 120/F Trento (TN) Italy         | 
-| <http://www.sinergis.it>                           | 
-| TODO: specify                                      |
-| Business or sector: Geographic information system  |
-{: .table-bordered}
-
-
-|--------------------|----------------------------------------------------|
-| 01/03/2012 - today | Company reference for map servers                  |
-|--------------------|----------------------------------------------------|
-|                    | Sinergis S.r.l.                                    |   
-|                    | Località Palazzine 120/F Trento (TN) Italy         | 
-|                    | <http://www.sinergis.it>                           | 
-|                    | TODO: specify                                      |
-|                    | Business or sector: Geographic information system  |
-{: .table-bordered}
-
-|--------------------|----------------------------------------------------|
-| 01/01/2010 - today | Database administrator                             |
-|--------------------|----------------------------------------------------|
-|                    | Sinergis S.r.l.                                    |   
-|                    | Località Palazzine 120/F Trento (TN) Italy         | 
-|                    | <http://www.sinergis.it>                           | 
-|                    | TODO: specify                                      |
-|                    | Business or sector: Geographic information system  |
-{: .table-bordered}
-
-|--------------------|----------------------------------------------------|
-| 01/01/2009 - today | Expert in data transformation                      |
-|--------------------|----------------------------------------------------|
-|                    | Sinergis S.r.l.                                    |   
-|                    | Località Palazzine 120/F Trento (TN) Italy         | 
-|                    | <http://www.sinergis.it>                           | 
-|                    | TODO: specify                                      |
-|                    | Business or sector: Geographic information system  |
-{: .table-bordered}
-
-|--------------------|----------------------------------------------------|
-| 01/01/2009 - today | System administrator                               |
-|--------------------|----------------------------------------------------|
-|                    | Sinergis S.r.l.                                    |   
-|                    | Località Palazzine 120/F Trento (TN) Italy         | 
-|                    | <http://www.sinergis.it>                           | 
-|                    | TODO: specify                                      |
-|                    | Business or sector: Geographic information system  |
-{: .table-bordered}
-
-|--------------------|----------------------------------------------------|
-| 18/02/2008 - 30/06/2008 | Tester                              |
-|--------------------|----------------------------------------------------|
-|                    | Sinergis S.r.l.                                    |   
-|                    | Località Palazzine 120/F Trento (TN) Italy         | 
-|                    | <http://www.sinergis.it>                           | 
-|                    | TODO: specify                                      |
-|                    | Business or sector: Geographic information system  |
-{: .table-bordered}
-
-
-
+    * Business or sector: *Geographic information system*
+* 01/01/2010 - today as **database administrator (DBA)**
+    * Sinergis S.r.l. Località Palazzine 120/F Trento (TN) Italy <http://www.sinergis.it>
+    * TODO: specify
+    * Business or sector: *Geographic information system*
+* 01/01/2009 - today as **expert in data transformation**
+    * Sinergis S.r.l. Località Palazzine 120/F Trento (TN) Italy <http://www.sinergis.it>
+    * TODO: specify
+    * Business or sector: *Geographic information system*
+* 01/01/2009 - today as **system administrator**
+    * Sinergis S.r.l. Località Palazzine 120/F Trento (TN) Italy <http://www.sinergis.it>
+    * TODO: specify
+    * Business or sector: *Geographic information system*
+* 18/02/2008 - 30/06/2008 as **tester**
+    * Sinergis S.r.l. Località Palazzine 120/F Trento (TN) Italy <http://www.sinergis.it>
+    * TODO: specify
+    * Business or sector: *Geographic information system*
 
 
 
