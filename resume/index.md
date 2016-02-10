@@ -23,17 +23,17 @@ theme: green
 
 | 01/04/2012 - today | **software analyst and senior system administrator** |
 
-    * [Sinergis S.r.l.](http://www.sinergis.it) Località Palazzine 120/F Trento (TN) Italy
-    * Developer of Triggers, functions, and scheduled jobs
-    * To be called in case of problems with:
-        * Oracle
-        * Esri SDE
-        * Postgres
-        * Postgis
-    * Installation and configuration manager for [WEGE](http://riuso.cnipa.gov.it/soluzioni/getDoc.bfr?id=177) Provinces of Bolzano, Sassari, Vercelli, Palermo and Firenze
-    * Infrastructure manager for [WEGE](http://riuso.cnipa.gov.it/soluzioni/getDoc.bfr?id=177) Provinces of Bolzano, Sassari, Vercelli, Palermo and Firenze
-    * Complete refactoring of address normalizer (Java) for (Comune di Reggio Emilia (italian municipality))[http://www.municipio.re.it/] and other municipalities.
-    * Business or sector: *Geographic information system*
+* [Sinergis S.r.l.](http://www.sinergis.it) Località Palazzine 120/F Trento (TN) Italy
+* Developer of Triggers, functions, and scheduled jobs
+* To be called in case of problems with:
+    * Oracle
+    * Esri SDE
+    * Postgres
+    * Postgis
+* Installation and configuration manager for [WEGE](http://riuso.cnipa.gov.it/soluzioni/getDoc.bfr?id=177) Provinces of Bolzano, Sassari, Vercelli, Palermo and Firenze
+* Infrastructure manager for [WEGE](http://riuso.cnipa.gov.it/soluzioni/getDoc.bfr?id=177) Provinces of Bolzano, Sassari, Vercelli, Palermo and Firenze
+* Complete refactoring of address normalizer (Java) for (Comune di Reggio Emilia (italian municipality))[http://www.municipio.re.it/] and other municipalities.
+* Business or sector: *Geographic information system*
 
 * 01/03/2012 - today as **company reference for map servers**
     * [Sinergis S.r.l.](http://www.sinergis.it) Località Palazzine 120/F Trento (TN) Italy
