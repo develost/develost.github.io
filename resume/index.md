@@ -21,7 +21,8 @@ theme: green
 
 ## Position held: Full-stack GIS professional
 
-| 01/04/2012 - today | **software analyst and senior system administrator** |{: .table-bordered}
+| 01/04/2012 - today | **software analyst and senior system administrator** |
+{: .table-bordered}
 
 * [Sinergis S.r.l.](http://www.sinergis.it) Località Palazzine 120/F Trento (TN) Italy
 * Developer of Triggers, functions, and scheduled jobs
