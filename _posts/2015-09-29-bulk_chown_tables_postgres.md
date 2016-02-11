@@ -7,9 +7,12 @@ tags: postgres dba sql
 featured: false
 ---
 
-#Bulk change owner tables in multiple schema postgres
+# How to modify the owner of many tables in a PostgreSQL database?
 
-todo description
+While there is a command (**REASSIGN OWNED**)[http://www.postgresql.org/docs/current/static/sql-reassign-owned.html] to change the ownership of database objects owned by a database role,
+sometimes you need to change the owner of some tables only.
+
+This is the script I run from pgAdmin.
 
 {% highlight sql %}
 ---------------------------------------------------------------------------------
@@ -27,3 +30,4 @@ BEGIN
     SET @i = @i +1;
 END
 {% endhighlight %}
+
