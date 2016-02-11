@@ -25,3 +25,7 @@ TODO
 
 ## 2015-04 dlMetro
 
+* a css / javascript framework to dress a website like a Windows 8 (metro ui)
+* has no dependecies to external libraries
+* get it [here](https://github.com/develost/dlMetro)
+* [an old post describing it](http://develos.com/)
