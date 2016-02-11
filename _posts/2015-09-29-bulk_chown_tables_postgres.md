@@ -9,7 +9,7 @@ featured: false
 
 # How to modify the owner of many tables in a PostgreSQL database?
 
-While there is a command (**REASSIGN OWNED**)[http://www.postgresql.org/docs/current/static/sql-reassign-owned.html] to change the ownership of database objects owned by a database role,
+While there is a command [**REASSIGN OWNED**](http://www.postgresql.org/docs/current/static/sql-reassign-owned.html) to change the ownership of database objects owned by a database role,
 sometimes you need to change the owner of some tables only.
 
 This is the script I run from pgAdmin.
