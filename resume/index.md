@@ -71,7 +71,7 @@ theme: green
 * For [Autonomous Province of Trento (italian province)](http://www.provincia.tn.it/): migrated the hydraulic structure cadastre from an oracle database to postgres, using oracle_fdw.
 * For [Emilia Romagna Region - italy](http://www.regione.emilia-romagna.it/) developer and maintainter of many GIS data transformation, loaded 4 datamart starting from an Esri Enterprise Geodatabase with 120 million historical records.
 * For [Lombardy Region](http://www.regione.lombardia.it/) developed some transformation with FME. Those transformation are used to populate and control the Regional Topographic Database.
-* For [Lombardy Region](http://www.regione.lombardia.it/) developed the background transformation of (GIS data download service)[http://www.cartografia.regione.lombardia.it/rlregisdownload/]
+* For [Lombardy Region](http://www.regione.lombardia.it/) developed the background transformation of [GIS data download service](http://www.cartografia.regione.lombardia.it/rlregisdownload/)
 * Business or sector: *Geographic information system*
     
 | 01/01/2009 - today | **system administrator** |
