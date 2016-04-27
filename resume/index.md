@@ -90,11 +90,25 @@ theme: green
 * Business or sector: *Geographic information system*
 
 ## Previous Works
-TODO
+
+| 09/2007 -  08/2008  | **teacher in secondary school** |
+{: .table-bordered}
+
+* todo
+
+| 09/2007 -  08/2008  | **GIS programmer** |
+{: .table-bordered}
+
+* todo
+
 
 
 # Education and training
-TODO
+
+FME Certified Professional (from 10/2011 to 10/2016)
+
+
+
 
 # Personal Skills
 TODO
