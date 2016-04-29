@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hello About the project collection of Massimiliano Bernabé
+title: About the project collection of Massimiliano Bernabé
 description: A collection of Massimiliano Bernabé's projects 
 theme: green
 ---
