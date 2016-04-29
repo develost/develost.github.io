@@ -13,6 +13,8 @@ A GIS application to make OpenStreetMap more accessible by dyslexics, mitigating
 The development of the application is at the end, and the app is on the play store.
 [Check it out](https://play.google.com/store/apps/details?id=org.osm4dys.app)
 
+and [OSM-for-the-dyslexic on the OpenStreetMap Wiki](https://wiki.openstreetmap.org/wiki/OSM-for-the-dyslexic)
+
 # Use the application effectively
 
 ## Main idea of the application
