@@ -5,11 +5,23 @@ description: A collection of Massimiliano Bernabé's projects
 theme: green
 ---
 
-# At a glance
-TODO
+# Motto
+
+Take the bucket of your life,
+
+fill it with stones,
+
+add sand,
+
+and add water.
+
+In this order.
 
 # Projects
-TODO
+
+## 2016-05 mobile2keyboard
+
+## 2016-04 Real Racers
 
 ## 2015-10 OpenStreetMap for the dyslexic
 
@@ -19,9 +31,18 @@ TODO
 
 ## 2015-05 surfway
 
+
 ## 2015-05 tython
 
+* a template engine written in python
+* make the developer able to use markdown syntax and python code together in templates
+* get it[here](https://github.com/develost/tython)
+
 ## 2015-05 websu
+
+* an utility written in php to automate the process of update a web site, minimizing offline time
+* support criptography
+* get it [here](https://github.com/develost/websu)
 
 ## 2015-04 dlMetro
 
