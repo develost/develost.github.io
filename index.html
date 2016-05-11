@@ -63,7 +63,7 @@ description: develost.com
             
 
 			<div class="col-md-4 col-sm-6 col-xs-12">
-				{% for post in site.posts %}
+				{% for post in site.posts offset:2 %}
 					{% if post.featured == true %}
 					<a href="{{post.url}}" title="Featured Article">
 						<div class="tile teal">
