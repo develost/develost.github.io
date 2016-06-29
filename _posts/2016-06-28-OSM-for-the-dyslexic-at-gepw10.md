@@ -2,7 +2,7 @@
 layout: post
 title:  OSM for the dyslexic presentation at 10th GEO European Projects Workshop 2016
 date:   2016-06-28 00:00:00
-summary : my presentation on session 12 into Citizen GEOSS: Earth Observation and GEOSS-based web and mobile applications for citizens
+summary : my presentation on session 12 into Citizen GEOSS - Earth Observation and GEOSS-based web and mobile applications for citizens
 categories: maps 
 tags: OSM maps dyslexic
 featured: true
