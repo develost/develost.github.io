@@ -64,6 +64,8 @@ that we have experience into the field.
  - straight words surrounded by enough empty space to prevent crowding
  - help the user with specific functionalities
 
+![Slide 5 - End]({{ site.url }}/posts-images{{page.url}}/03_Bernabe-5.png)
+
 
 # 998
 Thanks again from all the OSM for the dyslexic team!
