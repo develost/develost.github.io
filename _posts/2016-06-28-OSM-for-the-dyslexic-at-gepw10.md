@@ -22,6 +22,7 @@ Street Map and for now on any GIS software
 Dyslexia is the most widespread specific learning difference in Europe 
 We have direct experience with dyslexics and we brought togheter solutions that worked
 and continue to work in our every day activities:
+
  - uppercase letters and specific fonts to increare readability
  - Spacing in page is important, dislexics read single words in isolation
  - and specific software that helps dyslexics the hear the correct sound of the words
@@ -32,6 +33,7 @@ and continue to work in our every day activities:
 First we removed the ninty percent of geographical information keeping only some layers: 
 restaurants, roads, museums, schools, supermartket, and few others.
 and after that we started adding specific functionalities:
+
  - location history, to hel the user to recognize the path followed to reak the location
  - eagle eye in a tap and quick return exaclty to the same position
  - every 5 seconds we run automatically an identify to prevent the user to feel lost
@@ -42,6 +44,7 @@ and after that we started adding specific functionalities:
 
 # 4
 The innovation in our project is in 3 places:
+
  - For the first time a GIS application has been developed specifically for a dyslexic 
    user for now we have few feedback (from our testers only) but they found our application 
    far more usable than the general purpose ones.
