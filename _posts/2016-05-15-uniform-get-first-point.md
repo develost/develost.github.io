@@ -11,7 +11,7 @@ featured: false
 Is it difficult to extract the first point from a postgis geometry?
 
 Have you ever try to get if from geometry of different types?
-The standard approch will be to use the most suitable postgis function for every geometry type:
+The standard approach will be to use the most suitable postgis function for every geometry type:
 
 | Geomtry Type | How to get first point |
 | POINT        | the point itself |
@@ -23,7 +23,7 @@ The standard approch will be to use the most suitable postgis function for every
 | GEOMETRYCOLLECTION | use ST_DumpPoints and filter the first |
 {: .table-bordered}
 
-But really? In my opinion putting everything toghether in a single query will be extremely cumbersome.
+But really? In my opinion putting everything together in a single query will be extremely cumbersome.
 
 So after some time spent to find an elegant approach to the problem I gave up, and I build an ugly but effective query:
 
@@ -35,7 +35,7 @@ $BODY$
 DECLARE
     retval geometry;
 BEGIN
-    
+
 select ST_PointFromText('POINT(' || replace(
     reverse(
         split_part(
@@ -47,7 +47,7 @@ select ST_PointFromText('POINT(' || replace(
                         ),',',1
                     ),';',2
                 )
-            ), '(',1 ) 
+            ), '(',1 )
         ) ,')',''
     )||')',ST_SRID(geom)
 ) into retval;
@@ -59,5 +59,4 @@ LANGUAGE plpgsql IMMUTABLE COST 1;
 
 This works quite well in my reference environment.
 
-Have you found a better aproach? I'm open to your suggestions.
-
+Have you found a better approach? I'm open to your suggestions.

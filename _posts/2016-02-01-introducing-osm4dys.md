@@ -10,12 +10,12 @@ featured: true
 
 A GIS application to make OpenStreetMap more accessible by dyslexics, mitigating common reading errors
 
-# What is the appplication going to do?
+# What is the application going to do?
 The primary objective of the application is to mitigate typical reading errors dyslexic people do when reading and browsing OpenStreetMap.
 
 # Which data sets will it use?
 
-The proposed appplication use at least the following dataset from OpenStreetMap:
+The proposed application use at least the following dataset from OpenStreetMap:
 
 ## Boundaries
 
@@ -23,7 +23,7 @@ The proposed appplication use at least the following dataset from OpenStreetMap:
 
 Boundaries mark the borders of areas, mostly political, but also of other administrative areas. The application will use administrative boundaries as basemap (boundary = administrative , admin_level from 1 to 10)
 
-## Highways 
+## Highways
 
 ![Highways]({{ site.url }}/posts-images{{page.url}}/higways.jpg)
 
@@ -94,7 +94,7 @@ If one part of a map is obsolete, the part can be reproduced.
 
 ## Commercial software for dysleciscs
 
-### Read&Write 
+### Read&Write
 From <http://www.texthelp.com/UK>
 
 Read&Write is an easy-to-use flexible toolbar containing support features to make

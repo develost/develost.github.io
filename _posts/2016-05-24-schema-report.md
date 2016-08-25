@@ -33,7 +33,7 @@ DECLARE
     get_columns_query text;
     get_columns_record record;
     report_query text;
-    
+
 BEGIN
     get_columns_query := '';
     get_columns_query :=  get_columns_query || 'SELECT c.table_schema, c.table_name, c.column_name, c.data_type, c.udt_name ';
@@ -60,7 +60,7 @@ BEGIN
     else
 	    report_query := report_query || 'min(' || get_columns_record.column_name || ')::text as min_value, ';
 	    report_query := report_query || 'max(' || get_columns_record.column_name || ')::text as max_value, ';
-	end if;	
+	end if;
 
         report_query := report_query || 'sum(case when ' || get_columns_record.column_name || ' is null then 1 else 0 end )::integer as null_count, ';
         report_query := report_query || 'sum(case when ' || get_columns_record.column_name || ' is null then 0 else 1 end )::integer as not_null_count ';
@@ -70,7 +70,7 @@ BEGIN
     report_query := left(report_query,-10);
     RAISE NOTICE 'executing report query' ;
     RETURN QUERY EXECUTE report_query ;
-    
+
 END;
 $BODY$
   LANGUAGE plpgsql VOLATILE
@@ -79,11 +79,11 @@ $BODY$
 {% endhighlight %}
 
 {% highlight sql %}
-select * 
+select *
 from  schema_report('public');
 {% endhighlight %}
 
 The execution of the procedure is a quite long task, it could be reasonable to materialize a view...
 
 
-Have you found a better aproach? I'm open to your suggestions.
+Have you found a better approach? I'm open to your suggestions.
