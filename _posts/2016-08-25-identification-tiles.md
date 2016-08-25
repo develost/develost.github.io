@@ -51,11 +51,11 @@ The computation shows that it is possible to store up to 3 UUIDs version four in
 
 This is the identification tile 0/0/0.png the whole world at zoom level 0.
 
-[!Identification tile of the world]({{ site.url }}/posts-images{{page.url}}/world.png)
+![Identification tile of the world]({{ site.url }}/posts-images{{page.url}}/world.png)
 
 This is a particular of the above image make you capable to see how identification information is stored into the tile.
 
-[!Particular of an identification tile]({{ site.url }}/posts-images{{page.url}}.png)
+![Particular of an identification tile]({{ site.url }}/posts-images{{page.url}}.png)
 
 # Something working
 
