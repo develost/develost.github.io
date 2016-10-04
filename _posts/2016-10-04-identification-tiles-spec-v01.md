@@ -1,13 +1,12 @@
 ---
-layout: page
-title: Identification Tiles Specification
-description: The official specification of Identification Tiles Technology
-theme: green
+layout: post
+title: Identification Tiles Specification 0.1 - released
+date: 2016-10-04 00:00:00
+summary: The official specification of Identification Tiles Technology version 0.1
+categories: identification
+tags: maps tile identification
+featured: true
 ---
-
-version: 0.1
-
-status: working on it
 
 # Purpose
 Identification tiles is a technique to embed IDs of features into tiles, so when the user interact with a tile, the interaction can be handled client-side to get the IDs of the underlying features.
